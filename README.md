@@ -13,7 +13,7 @@ Tôi hiện tại là sinh viên với niềm đam mê trong lĩnh vực lập t
 Hiện tại, tôi đang không ngừng học hỏi
 
 ## 📫 Liên hệ với tôi
-- **Email:** hoangkhoile136@gmail.com
+- <img src="https://github.com/user-attachments/assets/40970bd8-dce4-458e-a0c2-c4335e0f4078" style="width=15px ;height=15px"/>:  hoangkhoile136@gmail.com
 - **Facebook:** https://www.facebook.com/profile.php?id=100017719154826
 - **GitHub:** https://github.com/koile136
 
