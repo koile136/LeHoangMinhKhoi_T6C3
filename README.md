@@ -1,21 +1,24 @@
-<h1>👋 Xin chào, tôi là Koile!</h1>
-    <h2>🌟 Giới thiệu về tôi:</h2>
-    <p>Tôi hiện tại là sinh viên với niềm đam mê sâu sắc trong lĩnh vực lập trình. Từ khi còn nhỏ, tôi đã luôn bị cuốn hút bởi công nghệ và cách mà nó có thể thay đổi thế giới xung quanh chúng ta. Tôi thích khám phá các công nghệ mới, từ lập trình web đến trí tuệ nhân tạo, và tôi luôn tìm kiếm những cách sáng tạo để áp dụng chúng vào thực tiễn..</p>
-    <h2>💻 Kỹ năng của tôi:</h2>
-    <img src="https://github.com/user-attachments/assets/d571f4fa-8b10-4eec-9e2e-fc21d1e13c09" alt="Kỹ năng của tôi" class="skills-image"/>
-    <img src="https://github.com/user-attachments/assets/104abf33-c95e-40a9-8d0f-6072070f0f7c" alt="Kỹ năng của tôi" class="skills-image"/>
-    <img src="https://github.com/user-attachments/assets/7663571c-1463-450e-a8b8-51284188b79b" alt="Kỹ năng của tôi" class="skills-image"/>
-    <img src="https://github.com/user-attachments/assets/0bcecfb4-1b21-4e9b-ac70-f32a5186ff71" alt="Kỹ năng của tôi" class="skills-image"/>
-    <img src="https://github.com/user-attachments/assets/015ccd5a-2ab5-478d-a7c5-0c647c778e70" alt="Kỹ năng của tôi" class="skills-image"/>
-    <h2>📈 Dự án nổi bật:</h2>
-    <ul>
-        <li><strong>Ứng dụng Bstakee: </strong><a href="https://github.com/koile136/Btaskee.github.io.git">Btaskee.github.io</a></li>
-        <li><strong>Website bán trà sữa: </strong><a href="https://github.com/anh-le-24/WEBTS.git">WEBTS</a></li>
-    </ul>
-    <h2>📫 Liên hệ với tôi:</h2>
-    <ul>
-        <li><strong><img src="https://github.com/user-attachments/assets/709c2c7a-def0-4e29-b649-33e2bdb2e776" width=19px, height=19px/>:</strong> hoangkhoile136@gmail.com</li>
-        <li><strong><img src="https://github.com/user-attachments/assets/7190463b-2e03-41aa-9110-a0773a66b730" width=19px, height=19px/>:</strong> <a href="https://www.facebook.com/profile.php id=100017719154826">FaceBook Profile</a></li>
-        <li><strong><img src="https://github.com/user-attachments/assets/ca09039f-984d-4f36-81c2-bb31bec81a23" width=19px, height=19px/>:</strong> <a href="https://github.com/koile136">GitHub Profile</a></li>
-    </ul>
-    <p>Cảm ơn bạn đã ghé thăm trang GitHub của tôi! Hãy kết nối với tôi nếu bạn có bất kỳ câu hỏi nào hoặc muốn hợp tác trong các dự án thú vị!</p>
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/khoile38) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017719154826) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=koile136&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=koile136&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koile136&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=koile136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=koile136&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=koile136&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
