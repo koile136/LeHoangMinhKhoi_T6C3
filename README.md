@@ -1,24 +1,53 @@
+<h1>👋 Giới thiệu</h1>
+<p>Xin chào! Tôi là <strong>Khôi Lê</strong> - một lập trình viên đam mê phát triển các ứng dụng di động và web. Tôi có kinh nghiệm trong các công nghệ như Android, Firebase, RecyclerView, và các framework như .NET và Bootstrap. Tôi luôn học hỏi và khám phá các công nghệ mới để hoàn thiện kỹ năng của mình và tạo ra các sản phẩm chất lượng cao.</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/khoile38) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017719154826) 
+<hr/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=koile136&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=koile136&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koile136&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2>🌐 Socials:</h2>
+<p>
+  <a href="https://www.behance.net/khoile38" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100017719154826" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=koile136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2>💻 Tech Stack:</h2>
+<p>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/framework7-%23EE350F.svg?style=plastic&logo=framework7&logoColor=white" alt="Framework7"/>
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<hr/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=koile136&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=koile136&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1>🚀 Các dự án</h1>
+<p>Dưới đây là một số dự án tiêu biểu của tôi:</p>
+<ul>
+  <li><strong><a href="https://github.com/koile136/Btaskee.github.io" target="_blank">Dự Án Ứng Dụng Tiện Ích Dọn Nhà BTaskee</a></strong><br/></li>
+  <li><strong><a href="https://github.com/anh-le-24/WEBTS" target="_blank">Trang Web Bán Trà Sữa</a></strong><br/></li>
+</ul>
+<hr/>
+<h2>📊 GitHub Stats:</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=koile136&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koile136&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koile136&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
